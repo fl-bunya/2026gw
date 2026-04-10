@@ -1,5 +1,1 @@
-# mdフォルダ以外を全て無視
-*
-!.gitignore
-!md/
-!md/**
+private/
