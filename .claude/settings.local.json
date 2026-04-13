@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:onthewayaround.com)",
+      "WebFetch(domain:nonstoptravelling.com)",
+      "WebFetch(domain:adventuresoflilnicki.com)",
+      "WebFetch(domain:www.induscaravan.com)",
+      "WebFetch(domain:rawinfocus.com)",
+      "WebFetch(domain:www.saiyu.co.jp)",
+      "WebFetch(domain:bordercrossinghub.com)",
+      "WebFetch(domain:caravanistan.com)",
+      "WebFetch(domain:note.com)",
+      "WebFetch(domain:web.tohoku.ac.jp)",
+      "WebFetch(domain:us.china-embassy.gov.cn)",
+      "WebFetch(domain:swt.xinjiang.gov.cn)"
+    ]
+  }
+}
